@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Linyi Senkuo Electromechanical Co., Ltd.</title>
-    <link>https://examplesite.com/archives/</link>
+    <link>https://blog.senkuogroup.com/archives/</link>
     <description>Recent content in Archives on Linyi Senkuo Electromechanical Co., Ltd.</description>
     <image>
       <title>Linyi Senkuo Electromechanical Co., Ltd.</title>
-      <url>https://examplesite.com/img/8.png</url>
-      <link>https://examplesite.com/img/8.png</link>
+      <url>https://blog.senkuogroup.com/img/8.png</url>
+      <link>https://blog.senkuogroup.com/img/8.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://examplesite.com/archives/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.senkuogroup.com/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

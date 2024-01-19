@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inverter on Linyi Senkuo Electromechanical Co., Ltd.</title>
-    <link>https://examplesite.com/tags/inverter/</link>
+    <link>https://blog.senkuogroup.com/tags/inverter/</link>
     <description>Recent content in inverter on Linyi Senkuo Electromechanical Co., Ltd.</description>
     <image>
       <title>Linyi Senkuo Electromechanical Co., Ltd.</title>
-      <url>https://examplesite.com/img/8.png</url>
-      <link>https://examplesite.com/img/8.png</link>
+      <url>https://blog.senkuogroup.com/img/8.png</url>
+      <link>https://blog.senkuogroup.com/img/8.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Jan 2024 10:29:20 +0800</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/inverter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.senkuogroup.com/tags/inverter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Three-phase vector inverter</title>
-      <link>https://examplesite.com/product/vector-inverter/</link>
+      <link>https://blog.senkuogroup.com/product/vector-inverter/</link>
       <pubDate>Thu, 04 Jan 2024 10:29:20 +0800</pubDate>
-      <guid>https://examplesite.com/product/vector-inverter/</guid>
+      <guid>https://blog.senkuogroup.com/product/vector-inverter/</guid>
       <description>The vector frequency converter is a power control device that uses frequency conversion technology and microelectronics technology to control the AC motor by changing the frequency of the motor&amp;#39;s operating power supply. The frequency converter is mainly composed of rectification, filtering, inverter, braking unit, drive unit, detection unit, micro processing unit etc. The frequency converter adjusts the voltage and frequency of the output power supply by switching off the internal GBT, and provides the required power supply voltage according to the actual needs of the motor, thereby achieving the purpose of energy saving and adjustment. </description>
     </item>
     <item>
       <title>What are the benefits of using a frequency converter?</title>
-      <link>https://examplesite.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</link>
+      <link>https://blog.senkuogroup.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</guid>
+      <guid>https://blog.senkuogroup.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</guid>
       <description>Frequency conversion speed regulation has been recognized as one of the most ideal and promising speed regulation methods. The main purpose of using a general-purpose frequency converter to form a frequency conversion speed regulation transmission system is to meet the needs of improving labor productivity, improving product quality, and improving equipment. The degree of automation, improve the quality of life and improve the living environment and other requirements; the second is to save energy and reduce production costs.</description>
     </item>
   </channel>
