@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on 软启动变频器厂家</title>
+    <link>https://examplesite.com/zh/product/</link>
+    <description>Recent content in Products on 软启动变频器厂家</description>
+    <image>
+      <title>软启动变频器厂家</title>
+      <url>https://examplesite.com/img/8.png</url>
+      <link>https://examplesite.com/img/8.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 03 Mar 2023 16:01:23 +0800</lastBuildDate>
+    <atom:link href="https://examplesite.com/zh/product/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>矢量变频器</title>
+      <link>https://examplesite.com/zh/product/1/</link>
+      <pubDate>Fri, 03 Mar 2023 16:01:23 +0800</pubDate>
+      <guid>https://examplesite.com/zh/product/1/</guid>
+      <description>矢量变频器是利用变频技术和微电子技术，通过改变电动机工作电源的频率来控制交流电动机的功率控制装置。通用变频器主要由整流、滤波、变频、制动单元、驱动单元、检测单元、微处理单元等组成。变频器通过关闭内部GBT来调节输出电源的电压和频率，并根据电机的实际需要提供所需的电源电压，从而达到节能和调节的目的。此外，变频调速器还具有许多保护功能，如过流、过压、过载保护等。随着工业自动化程序的不断改进，变频器也得到了广泛的应用。</description>
+    </item>
+    <item>
+      <title>自耦减压启动柜</title>
+      <link>https://examplesite.com/zh/product/5/</link>
+      <pubDate>Fri, 03 Mar 2023 16:01:23 +0800</pubDate>
+      <guid>https://examplesite.com/zh/product/5/</guid>
+      <description>自耦变压器降压启动是通过自耦变压器降低加在电动机定子上的电压，从而降低启动电流。电动机启动时，定子绕组连接自耦变压器的二次侧，此时为降压启动状态。启动完成后，自耦变压器脱离，定子绕组连接额定电压，电动机全压运行。自耦减压启动是笼型感应电动机(又称异步电动机)的启动方法之一。它具有线路结构紧凑、不受电动机绕组接线方式限制的优点，还可按允许的启动电流和所需要的启动转矩选用不同的变压器电压抽头，故适用于容量较大的电动机。</description>
+    </item>
+    <item>
+      <title>旁路软启动器</title>
+      <link>https://examplesite.com/zh/product/4/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>https://examplesite.com/zh/product/4/</guid>
+      <description>旁路软启动器（soft starter）是一种集电机软起动、软停车、轻载节能和多种保护功能于一体的新颖电机控制装置，国外称为Soft Starter。它的主要构成是串接于电源与被控电机之间的三相反并联闸管及其电子控制电路。运用不同的方法，控制三相反并联闸管的导通角，使被控电机的输入电压按不同的要求而变化，就可实现不同的功能。</description>
+    </item>
+    <item>
+      <title>在线软启动柜</title>
+      <link>https://examplesite.com/zh/product/3/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>https://examplesite.com/zh/product/3/</guid>
+      <description>在线软起动柜采用三相并联晶闸管作为稳压器，连接在电源和电机定子之间。这种电路是三相全控桥式整流电路。使用软起动器启动电机时，晶闸管的输出电压逐渐升高，电机逐渐加速，直到晶闸管完全导通，电机根据额定电压的机械特性工作，实现平稳启动，降低启动电流，避免启动过电流跳闸。在线软起动器柜还提供软停止功能。软停止与软启动过程相反。电压逐渐降低，转速降至零，避免自由停止造成扭矩冲击。</description>
+    </item>
+    <item>
+      <title>在线软启动器</title>
+      <link>https://examplesite.com/zh/product/2/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
+      <guid>https://examplesite.com/zh/product/2/</guid>
+      <description>该系列在线式软起动器采用三进三出晶闸管全时在线结构，无需外接交流接触器组成机柜;内部采用大功率风冷散热器和高速轴流风机，确保软启动长期可靠运行;使用时一定要考虑柜内的排风散热！本产品广泛应用于传动设备、风机、泵、破碎机等负载的起动控制，产品符合GB14048.6-2016</description>
+    </item>
+  </channel>
+</rss>

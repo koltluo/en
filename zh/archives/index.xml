@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on 软启动变频器厂家</title>
+    <link>https://examplesite.com/zh/archives/</link>
+    <description>Recent content in Archives on 软启动变频器厂家</description>
+    <image>
+      <title>软启动变频器厂家</title>
+      <url>https://examplesite.com/img/8.png</url>
+      <link>https://examplesite.com/img/8.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <atom:link href="https://examplesite.com/zh/archives/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
