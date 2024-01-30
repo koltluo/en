@@ -28,19 +28,6 @@
                 href="https://blog.senkuogroup.com/zh/contact/"
                 />
   </url><url>
-    <loc>https://blog.senkuogroup.com/zh/blog/</loc>
-    <lastmod>2024-01-16T15:01:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.senkuogroup.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.senkuogroup.com/zh/blog/"
-                />
-  </url><url>
     <loc>https://blog.senkuogroup.com/zh/categories/</loc>
     <lastmod>2024-01-16T15:01:23+08:00</lastmod>
     <xhtml:link
@@ -52,19 +39,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://blog.senkuogroup.com/zh/categories/"
-                />
-  </url><url>
-    <loc>https://blog.senkuogroup.com/zh/tags/</loc>
-    <lastmod>2024-01-16T15:01:23+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.senkuogroup.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.senkuogroup.com/zh/tags/"
                 />
   </url><url>
     <loc>https://blog.senkuogroup.com/zh/categories/%E6%A1%88%E4%BE%8B/</loc>
@@ -87,6 +61,32 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://blog.senkuogroup.com/zh/"
+                />
+  </url><url>
+    <loc>https://blog.senkuogroup.com/zh/tags/</loc>
+    <lastmod>2024-01-16T15:01:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.senkuogroup.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.senkuogroup.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://blog.senkuogroup.com/zh/blog/</loc>
+    <lastmod>2024-01-16T15:01:23+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.senkuogroup.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.senkuogroup.com/zh/blog/"
                 />
   </url><url>
     <loc>https://blog.senkuogroup.com/zh/tags/%E7%9F%A2%E9%87%8F%E5%8F%98%E9%A2%91%E5%99%A8/</loc>
@@ -263,6 +263,12 @@
     <loc>https://blog.senkuogroup.com/zh/tags/%E5%BB%BA%E7%AD%91%E8%A1%8C%E4%B8%9A/</loc>
     <lastmod>2024-01-12T16:15:45+08:00</lastmod>
   </url><url>
+    <loc>https://blog.senkuogroup.com/zh/tags/%E5%8F%98%E9%A2%91%E5%99%A8%E4%BB%B7%E6%A0%BC/</loc>
+    <lastmod>2023-03-04T16:01:23+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/zh/categories/%E4%BA%A7%E5%93%81/</loc>
+    <lastmod>2023-03-04T16:01:23+08:00</lastmod>
+  </url><url>
     <loc>https://blog.senkuogroup.com/zh/product/</loc>
     <lastmod>2023-03-04T16:01:23+08:00</lastmod>
     <xhtml:link
@@ -275,12 +281,6 @@
                 hreflang="zh"
                 href="https://blog.senkuogroup.com/zh/product/"
                 />
-  </url><url>
-    <loc>https://blog.senkuogroup.com/zh/tags/%E5%8F%98%E9%A2%91%E5%99%A8%E4%BB%B7%E6%A0%BC/</loc>
-    <lastmod>2023-03-04T16:01:23+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.senkuogroup.com/zh/categories/%E4%BA%A7%E5%93%81/</loc>
-    <lastmod>2023-03-04T16:01:23+08:00</lastmod>
   </url><url>
     <loc>https://blog.senkuogroup.com/zh/categories/%E4%BB%B7%E6%A0%BC/</loc>
     <lastmod>2023-03-04T16:01:23+08:00</lastmod>
@@ -344,6 +344,18 @@
   </url><url>
     <loc>https://blog.senkuogroup.com/zh/product/2/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/zh/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.senkuogroup.com/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.senkuogroup.com/zh/series/"
+                />
   </url><url>
     <loc>https://blog.senkuogroup.com/zh/archives/</loc>
     <xhtml:link
