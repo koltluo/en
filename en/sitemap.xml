@@ -570,6 +570,43 @@
     <loc>https://blog.senkuogroup.com/product/soft-starter/</loc>
     <lastmod>2024-01-02T21:29:20+02:00</lastmod>
   </url><url>
+    <loc>https://blog.senkuogroup.com/categories/blog/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/blog/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://blog.senkuogroup.com/zh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.senkuogroup.com/blog/"
+                />
+  </url><url>
+    <loc>https://blog.senkuogroup.com/tags/frequency/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/categories/frequency-converter/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/blog/power-up-your-business-with-vector-inverters/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/tags/vfd/</loc>
+    <lastmod>2023-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/blog/why-place-an-order-today-for-our-vector-frequency-converters/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.senkuogroup.com/blog/the-companys-english-international-website-officially-opened/</loc>
+    <lastmod>2023-01-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.senkuogroup.com/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -594,20 +631,6 @@
                 href="https://blog.senkuogroup.com/archives/"
                 />
   </url><url>
-    <loc>https://blog.senkuogroup.com/categories/blog/</loc>
-  </url><url>
-    <loc>https://blog.senkuogroup.com/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://blog.senkuogroup.com/zh/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.senkuogroup.com/blog/"
-                />
-  </url><url>
     <loc>https://blog.senkuogroup.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -621,10 +644,6 @@
                 />
   </url><url>
     <loc>https://blog.senkuogroup.com/faq/</loc>
-  </url><url>
-    <loc>https://blog.senkuogroup.com/tags/frequency/</loc>
-  </url><url>
-    <loc>https://blog.senkuogroup.com/categories/frequency-converter/</loc>
   </url><url>
     <loc>https://blog.senkuogroup.com/search/</loc>
     <xhtml:link
@@ -649,9 +668,5 @@
                 hreflang="en"
                 href="https://blog.senkuogroup.com/series/"
                 />
-  </url><url>
-    <loc>https://blog.senkuogroup.com/tags/vfd/</loc>
-  </url><url>
-    <loc>https://blog.senkuogroup.com/blog/what-are-the-benefits-of-using-a-frequency-converter/</loc>
   </url>
 </urlset>
