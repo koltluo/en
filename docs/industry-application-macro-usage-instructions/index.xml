@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 6 Instructions for Industry Application Macros on Linyi Senkuo Electromechanical Co. Ltd</title>
+    <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/</link>
+    <description>Recent content in Chapter 6 Instructions for Industry Application Macros on Linyi Senkuo Electromechanical Co. Ltd</description>
+    <image>
+      <title>Linyi Senkuo Electromechanical Co. Ltd</title>
+      <url>http://localhost:1313/img/mstile-150x150.png</url>
+      <link>http://localhost:1313/img/mstile-150x150.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/industry-application-macro-usage-instructions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.1 Factory Reset</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/restore-to-factory-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/restore-to-factory-settings/</guid>
+      <description>Setting P0-29 to 10000 restores all parameters in the motor parameter group to their factory default values. Setting P0-29 to 10000 has the same effect as setting PP-01 to 1 for factory reset. Before executing macro operations for industrial applications, please execute: P0-29=10000.
+Explore these documents for more information:
+Buy High-Performance Vector Inverter Now Frequently Asked Questions about Inverters </description>
+    </item>
+    <item>
+      <title>6.1 恢复出厂设置</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/restore-to-factory-settings.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/restore-to-factory-settings.zh-cn/</guid>
+      <description>P0-29=10000，不包括电机参数组的其它参数全部恢复出厂默认值，P0-29=10000，等同于PP-01=1的恢复出厂值效果。执行行业应用宏操作前，请先执行：P0-29=10000。
+探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>6.2 Constant Pressure Water Supply Macro</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings/</guid>
+      <description>ℹ️ Tip: 1 bar = 1 kg = 0.1 MPa = 10 meters of mercury This constant pressure water supply macro has the following features: by selecting the water supply macro and inputting the sensor range value and target pressure, other parameters can remain unchanged to achieve efficient constant pressure water supply control directly. It has strong pressure regulation ability, rapid and sensitive response, making it superior to traditional PID control frequency-based water supply control in terms of stability, energy efficiency, and other aspects.</description>
+    </item>
+    <item>
+      <title>6.2 恒压供水宏</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/constant-pressure-water-supply-macro-settings.zh-cn/</guid>
+      <description> ℹ️ 小提示：1bar=1kg=0.1MPa=10米汞柱 本恒压力供水宏特点：直接选择供水宏，再输入传感器量程值和目标压力，其它参数基本上不动就能直接实现高效的恒压供水控制，调压能力强大，反应迅速灵敏，因此比传统的PID控制频率方式的供水控制更优秀，压力更稳定，更节能等优点。同时对有压力罐的现场有更好的恒压保压效果。以及主板双继电器直接实现一拖三，或配合Y1和HDO端子外接继电器控制最多可实现一拖五供水，有独立的加泵和减泵压力以及延时控制，还可以实现超压力时，备用紧急的减泵专用时间控制，只要适当减小(b0-15压力上限紧急减辅泵延时)的时间值，即可快速减泵并停机，合理避免水压上升太快的难题。另外，键盘可以通过移位键切换直接监视压力设定目标值，或压力反馈值。掉电后重新上电后运行时，监视内容不变。同时本机还直接支持双显键盘监视压力设定值以及反馈值。
+单泵变频恒压力供水宏 P0-29=1时，其自动初始化参数如下：（默认面板电位器给定目标压力值）
+P0-01=2，P0-02=1，P0-03=8，P0-14=20.00Hz，P4-18=2.00，P7-03=8015，P7-04=0001，P7-05=3003，P7-17=15，P7-18=16，PA-00=3，PA-05=50.0，PA-06=0.10，PA-28=0（如果加快反应速度，可以增大PA-05和减小PA-06的值；减慢反应速度，这两参数反之），AI1默认为0~10V输入作为PID压力反馈源，如果需要改为4~20mA输入，请补充参数：P4-13=2.00V，P4-37=11(个位设1为电流输入型)。变频器本身出厂AI2默认为0~20MA输入，如果使用AI2作为PID压力反馈源，对应补充参数：P4-18=2.00V，P4-37=10即可。AI1和AI2改为电流输入时，需要串接端子24V为传感器供电。
+b0组为恒压力供水参数组，其中b0-00为压力传感器的量程，需要如实输入。例如：传感器最大值标记为1.6MPa，则b0-00=16.00kg。
+PA-00用于选定目标压力给定源默认是3键盘模拟电位器，如果选为8即由b0-01为供水现场的目标压力值设定，默认为5.00kg，可按需求更改。休眠和唤醒压力以及相关的延时可以调整，休眠，唤醒以及各种压力偏差量，都是自动跟随着目标压力的百分比值联动自动适应调整，基本上不需要调节就能稳定工作。
+注意：关于恒压供水的变频器相关接线，请点这里，不在此叙述。
+一拖三变频恒压力供水宏 P0-29=2，即可实现1变频泵拖2工频泵的恒压供水模式。此模式基于上面的单泵变频恒压力供水宏的初始化默认参数条件下，增加如下默认参数：
+P5-02=50(RLY1为辅助泵1)，P5-03=51(RLY2为辅助泵2)，P5-25=0.3s，P5-26=0.3s，b0-10=2(两个辅助泵)，更多控制参数请看恒压供水参数b0组
+一拖五变频恒压力供水宏 P0-29=3，即可实现1变频泵拖4工频泵的恒压供水模式。此模式基于上面的一拖三变频恒压力供水宏的初始化默认参数条件下，增加如下默认参数：
+P5-04=52（Y1为辅助泵3），P5-01=53(HDO为辅助泵4)，P5-00=1，P5-24=0.3s，P5-27=0.3s，b0-10=4(四个辅助泵)，更多控制参数请看恒压供水参数b0组
+消防供水巡检柜专用宏 P0-29=7，些模式默认参数如下：
+P0-02=1，P0-03=0，P0-08=10.00Hz，P0-12=15.00Hz，P4-00=1，P4-03=9，P6-10=1
+探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>6.3 Machine Tool Macro 100HZ</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/machine-tool-macro-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/machine-tool-macro-settings/</guid>
+      <description>AI1 input 0~10V sets the speed, X1 terminal controls forward rotation start/stop. A braking resistor must be connected. If there is overvoltage during braking, reduce the overvoltage stall gain value in P9 group. If this value is too small, it may cause excessive impact on the IGBT.
+Explore these documents for more information:
+Purchase High-Performance Vector Frequency Converter Now Inverter FAQ </description>
+    </item>
+    <item>
+      <title>6.3 机床宏100HZ</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/machine-tool-macro-settings.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/machine-tool-macro-settings.zh-cn/</guid>
+      <description>AI1输入0~10V给定转速，X1端子正转启停，须接刹车电阻，如果刹车过压，须要注意减少P9组的过压失速增益值，此值过小，容易对IGBT冲击过大。
+探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>6.4 Engraving Machine Macro 400HZ</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings/</guid>
+      <description>X1 controls forward rotation start/stop, X2 controls multi-speed terminal 1, X3 controls multi-speed terminal 2, X4 controls multi-speed terminal 3. The combination of three terminals is as follows:
+Speed Corresponding Frequency Multi-Speed Terminal 1 Multi-Speed Terminal 2 Multi-Speed Terminal 3 0 0Hz OFF OFF OFF 1 100Hz ON OFF OFF 2 150Hz OFF ON OFF 3 200Hz ON ON OFF 4 250Hz OFF OFF ON 5 300Hz ON OFF ON 6 350Hz OFF ON ON 7 400Hz ON ON ON Explore these documents for more information:</description>
+    </item>
+    <item>
+      <title>6.4 雕刻机宏400HZ</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/engraving-machine-macro-settings.zh-cn/</guid>
+      <description>X1正转启停，X2多段速端子1，X3多段速端子2，X4多段速端子3，三端子组合如下：
+段速 对应频率 多段速端子1 多段速端子2 多段速端子3 0 0Hz OFF OFF OFF 1 100Hz ON OFF OFF 2 150Hz OFF ON OFF 3 200Hz ON ON OFF 4 250Hz OFF OFF ON 5 300Hz ON OFF ON 6 350Hz OFF ON ON 7 400Hz ON ON ON 探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>第六章 行业应用宏使用说明</title>
+      <link>http://localhost:1313/docs/industry-application-macro-usage-instructions/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/industry-application-macro-usage-instructions/_index.zh-cn/</guid>
+      <description>&lt;p&gt;使用宏参数需要注意，本机的宏功能，旨在减少客户配置功能码参数的设置，并不是所有参数都考虑得百分之百齐全，现场如有使用中遇到些问题，须具体问题具体分析，发挥自己的经验并调节一些有帮助的参数以达到最佳的使用效果。&lt;/p&gt;
+&lt;p&gt;探索以下文档以便了解更多内容：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

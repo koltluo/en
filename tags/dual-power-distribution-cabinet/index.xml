@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dual power distribution cabinet on Linyi Senkuo Electromechanical Co. Ltd</title>
-    <link>https://blog.senkuogroup.com/tags/dual-power-distribution-cabinet/</link>
-    <description>Recent content in Dual power distribution cabinet on Linyi Senkuo Electromechanical Co. Ltd</description>
+    <title>Dual Power Distribution Cabinet on Linyi Senkuo Electromechanical Co. Ltd</title>
+    <link>https://en.lyskjd.com/tags/dual-power-distribution-cabinet/</link>
+    <description>Recent content in Dual Power Distribution Cabinet on Linyi Senkuo Electromechanical Co. Ltd</description>
     <image>
       <title>Linyi Senkuo Electromechanical Co. Ltd</title>
-      <url>https://blog.senkuogroup.com/img/mstile-150x150.png</url>
-      <link>https://blog.senkuogroup.com/img/mstile-150x150.png</link>
+      <url>https://en.lyskjd.com/img/mstile-150x150.png</url>
+      <link>https://en.lyskjd.com/img/mstile-150x150.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jan 2024 09:36:20 +0800</lastBuildDate>
-    <atom:link href="https://blog.senkuogroup.com/tags/dual-power-distribution-cabinet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://en.lyskjd.com/tags/dual-power-distribution-cabinet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ATS-dual-power-distribution-box</title>
-      <link>https://blog.senkuogroup.com/product/ats-dual-power-distribution-box/</link>
+      <link>https://en.lyskjd.com/product/ats-dual-power-distribution-box/</link>
       <pubDate>Wed, 10 Jan 2024 09:36:20 +0800</pubDate>
-      <guid>https://blog.senkuogroup.com/product/ats-dual-power-distribution-box/</guid>
+      <guid>https://en.lyskjd.com/product/ats-dual-power-distribution-box/</guid>
       <description>As the name suggests, the ATS dual power distribution box has two power supply lines, which are generally used in low-voltage distribution boxes. The main power supply is generally the city power, which comes from a transformer; the backup power supply is usually supplied from a diesel generator. When working, a controller is used to realize the conversion of the main supply and the backup supply: when the main supply is powered, the controller automatically closes the main supply circuit, that is, the power is supplied by the transformer; when the main supply fails, the controller will give the generator set a The start signal allows the engine to work and supply power. At this time, the backup supply circuit will be charged, and the dual power supply will automatically separate the main supply and close the backup supply. </description>
     </item>
   </channel>

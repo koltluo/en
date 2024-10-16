@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Control Cabinet on Linyi Senkuo Electromechanical Co. Ltd</title>
-    <link>https://blog.senkuogroup.com/tags/control-cabinet/</link>
+    <link>https://en.lyskjd.com/tags/control-cabinet/</link>
     <description>Recent content in Control Cabinet on Linyi Senkuo Electromechanical Co. Ltd</description>
     <image>
       <title>Linyi Senkuo Electromechanical Co. Ltd</title>
-      <url>https://blog.senkuogroup.com/img/mstile-150x150.png</url>
-      <link>https://blog.senkuogroup.com/img/mstile-150x150.png</link>
+      <url>https://en.lyskjd.com/img/mstile-150x150.png</url>
+      <link>https://en.lyskjd.com/img/mstile-150x150.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 05 Jan 2024 10:29:20 +0800</lastBuildDate>
-    <atom:link href="https://blog.senkuogroup.com/tags/control-cabinet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://en.lyskjd.com/tags/control-cabinet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On-line Soft Start Control Cabinet</title>
-      <link>https://blog.senkuogroup.com/product/on-line-soft-start-control-cabinet/</link>
+      <link>https://en.lyskjd.com/product/on-line-soft-start-control-cabinet/</link>
       <pubDate>Fri, 05 Jan 2024 10:29:20 +0800</pubDate>
-      <guid>https://blog.senkuogroup.com/product/on-line-soft-start-control-cabinet/</guid>
+      <guid>https://en.lyskjd.com/product/on-line-soft-start-control-cabinet/</guid>
       <description>The online soft starter cabinet uses three-phase parallel thyristors as voltage regulators, which are connected between the power supply and the motor stator. Such a circuit is a three-phase fully controlled bridge rectifier circuit. When using a soft starter to start the motor, the output voltage of the thyristor gradually increases, and the motor gradually accelerates until the thyristor is fully turned on, and the motor works on the mechanical characteristics of the rated voltage to achieve smooth start, reduce the starting current, and avoid starting overcurrent tripping. </description>
     </item>
   </channel>

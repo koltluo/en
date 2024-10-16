@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 5 Functional Parameter Table on Linyi Senkuo Electromechanical Co. Ltd</title>
+    <link>http://localhost:1313/docs/functional-parameter-table/</link>
+    <description>Recent content in Chapter 5 Functional Parameter Table on Linyi Senkuo Electromechanical Co. Ltd</description>
+    <image>
+      <title>Linyi Senkuo Electromechanical Co. Ltd</title>
+      <url>http://localhost:1313/img/mstile-150x150.png</url>
+      <link>http://localhost:1313/img/mstile-150x150.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/functional-parameter-table/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5.1 P0 Group Basic Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/basic-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/basic-parameters/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Property Description ✅: Indicates that the setting value of this parameter can be changed when the VFD is in both stopped and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the VFD is in a running state;
+❎: Indicates that the value of this parameter is an actual detection record value and cannot be changed;
+P0 Group: Basic Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P0-00 G/P Model 1: G Type2: P Type 1 ✳️ 61440 P0-01 Motor Control Mode 0: Sensorless Vector Control2: V/F Control 2 ✳️ 61441 P0-02 Command Source Selection 0: Panel Command Channel (LED Off)1: Terminal Command Channel (LED On)2: Communication Command Channel (LED Flashing) 0 ✅ 61442 P0-03 Main Frequency Source X Selection See Table 4 ✳️ 61443 P0-04 Auxiliary Frequency Source Y Selection Same as P0-03 0 ✳️ 61444 P0-05 Overlay Frequency Source Y Selection Range 0: Relative to Maximum Frequency1: Relative to Frequency Source X 0 ✅ 61445 P0-06 Overlay Frequency Source Y Range 0%~150% 100% ✅ 61446 P0-07 Frequency Source Overlay Mode Selection Units: Frequency Source Selection0: Main Frequency Source X1: Main Auxiliary Operation (Operation mode determined by tens)2: Switching between Main Frequency Source X and Auxiliary Frequency Source Y3: Switching between Main Frequency Source X and Main Auxiliary Operation Result4: Switching between Auxiliary Frequency Source Y and Main Auxiliary Operation ResultTens: Relationship between Frequency Source and Main Auxiliary Operation0: Main + Auxiliary1: Main - Auxiliary2: Maximum of Both3: Minimum of Both4: Main * Auxiliary 00 ✅ 61447 P0-08 Preset Frequency 0.</description>
+    </item>
+    <item>
+      <title>5.1 P0组：基本参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/basic-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/basic-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P0组：基本参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P0-00 G/P机型 1：G型2：P型 1 ✳️ 61440 P0-01 电机控制方式 0：无速度传感器矢量控制2：V/F控制 2 ✳️ 61441 P0-02 命令源选择 0：面板命令通道（LED灯灭）1：端子命令通道（LED灯亮）2：通讯命令通道（LED灯闪） 0 ✅ 61442 P0-03 主频率源X选择 0：数字设定（预置频率P0-08，UP/DOWN可修改，掉电不记忆）1：数字设定（预置频率P0-08，UP/DOWN可修改，掉电记忆）2：AI13：AI24：AI3键盘电位器5：HDI脉冲设定（X5）6：多段指令7：简易PLC8：PID9：通讯给定 4 ✳️ 61443 P0-04 频率源Y选择 同P0-03（主频率源X选择） 0 ✳️ 61444 P0-05 叠加时频率源Y选择范围 0：相对于最大频率1：相对于频率源X 0 ✅ 61445 P0-06 叠加时频率源Y范围 0%~150% 100% ✅ 61446 P0-07 频率源叠加方式选择 个位：频率源选择0：主频率源X1：主辅运算（运算方式由十位确定）2：主频率源X与辅助频率源Y切换3：主频率源X与主辅运算结果切换4：辅频率源Y与主辅运算结果切换十位：频率源主辅运算关系0：主+辅1：主-辅2：二者最大值3：二者最小值4：主*辅 00 ✅ 61447 P0-08 预置频率 0.00Hz~最大频率（P0-10） 50Hz ✅ 61448 P0-09 运行方向 0：方向一致1：方向相反 0 ✅ 61449 P0-10 最大频率 50.</description>
+    </item>
+    <item>
+      <title>5.2 P1 Group Motor Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/motor-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/motor-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the inverter is in both stopped and running states.
+✳️: Indicates that the parameter setting value cannot be changed when the inverter is in a running state.
+❎: Indicates that the parameter value is the actual measured recording value and cannot be changed.
+P1 Group: Motor Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P1-00 Motor Type Selection 0: Ordinary Asynchronous Motor1: Variable Frequency Asynchronous Motor2: Permanent Magnet Synchronous Motor (Refer to Separate Manual) 0 ✳️ 61696 P1-01 Motor Rated Power 0.</description>
+    </item>
+    <item>
+      <title>5.2 P1组：电机参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/motor-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/motor-parameters.zh-cn/</guid>
+      <description> ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P1组：电机参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P1-00 电机类型选择 0：普通异步电机1：变频异步电机2：永磁同步电机（另建说明书） 0 ✳️ 61696 P1-01 电机额定功率 0.1~1000KW 机型确定 ✳️ 61697 P1-02 电机额定电压 1~380V 机型确定 ✳️ 61698 P1-03 电机额定电流 0.01~100.00A 机型确定 ✳️ 61699 P1-04 电机额定频率 0.01Hz~最大频率 机型确定 ✳️ 61700 P1-05 电机额定转速 1~65535rpm 机型确定 ✳️ 61701 P1-10 异步电机空载电流 0.01~P1-03 调谐参数 ✳️ 61706 P1-37 调谐选择 0：无操作1：异步机静止调谐2：异步机完整调谐3：静止调谐2 0 ✳️ 61733 探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>5.3 P2 Group Vector Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/vector-parameter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/vector-parameter/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the inverter is in both stopped and running states.
+✳️: Indicates that the parameter setting value cannot be changed when the inverter is in a running state.
+❎: Indicates that the parameter value is the actual measured recording value and cannot be changed.
+P2 Group: Vector Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P2-00 Speed Loop Proportional Gain 1 1~100 30 ✅ 61952 P2-01 Speed Loop Integral Time 1 0.</description>
+    </item>
+    <item>
+      <title>5.3 P2组：矢量参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/vector-parameter.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/vector-parameter.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P2组：矢量参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P2-00 速度环比例增益1 1~100 30 ✅ 61952 P2-01 速度环积分时间1 0.01~10.00s 0.50s ✅ 61953 P2-02 切换频率1 0.00~P2-05 5.00Hz ✅ 61954 P2-03 速度环比例增益2 1~100 20 ✅ 61955 P2-04 速度环积分时间2 0.01~10.00s 1.00s ✅ 61956 P2-05 切换频率2 P2-2~最大频率 10.00Hz ✅ 61957 P2-06 矢量控制转差增益 50%~200% 150% ✅ 61958 P2-07 速度环滤波时间常数 0.000~0.100s 0.000s ✅ 61959 P2-08 矢量控制过励磁增益 0~200 64 ✅ 61960 P2-09 速度控制方式下转矩上限源 0：功能码P2-10设定1：AI12：AI23：键盘电位器4：PULSE脉冲给定5：通讯给定6：MIN(AI1,AI2)7：MAX(AI1,AI2)1-7选项的满量程对应P2-10 0 ✅ 61961 P2-10 速度控制方式下转矩上限数字设定 0.</description>
+    </item>
+    <item>
+      <title>5.4 P3 Group  V/F Control Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/v-f-control-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/v-f-control-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stopped and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state;
+❎: Indicates that the value of this parameter is the actual measured value and cannot be changed.
+Group P3: V/F Control Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P3-00 V/F Curve Setting 1: G-type2: P-type 1 ✳️ 62208 P3-01 Torque Boost 1: G-type2: P-type 1 ✅ 62209 P3-02 Torque Boost Cutoff Frequency 1: G-type2: P-type 1 ✳️ 62210 P3-03 Multi-point VF Frequency Point 1 1: G-type2: P-type 1 ✳️ 62211 P3-04 Multi-point VF Voltage Point 1 1: G-type2: P-type 1 ✳️ 62212 P3-05 Multi-point VF Frequency Point 2 1: G-type2: P-type 1 ✳️ 62213 P3-06 Multi-point VF Voltage Point 2 1: G-type2: P-type 1 ✳️ 62214 P3-07 Multi-point VF Frequency Point 3 1: G-type2: P-type 1 ✳️ 62215 P3-08 Multi-point VF Voltage Point 3 1: G-type2: P-type 1 ✳️ 62216 P3-09 VF Deviation Compensation Gain 1: G-type2: P-type 1 ✅ 62217 P3-10 VF Over Excitation Gain 1: G-type2: P-type 1 ✅ 62218 P3-11 VF Oscillation Suppression Gain 1: G-type2: P-type 1 ✅ 62219 Explore these documents to learn more.</description>
+    </item>
+    <item>
+      <title>5.4 P3组：V/F控制参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/v-f-control-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/v-f-control-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P3组：V/F控制参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P3-00 V/F曲线设定 1：G型2：P型 1 ✳️ 62208 P3-01 转矩提升 1：G型2：P型 1 ✅ 62209 P3-02 转矩提升截止频率 1：G型2：P型 1 ✳️ 62210 P3-03 多点VF频率点1 1：G型2：P型 1 ✳️ 62211 P3-04 多点VF电压点1 1：G型2：P型 1 ✳️ 62212 P3-05 多点VF频率点2 1：G型2：P型 1 ✳️ 62213 P3-06 多点VF电压点2 1：G型2：P型 1 ✳️ 62214 P3-07 多点VF频率点3 1：G型2：P型 1 ✳️ 62215 P3-08 多点VF电压点3 1：G型2：P型 1 ✳️ 62216 P3-09 VF转差补偿增益 1：G型2：P型 1 ✅ 62217 P3-10 VF过励磁增益 1：G型2：P型 1 ✅ 62218 P3-11 VF振荡抑制增益 1：G型2：P型 1 ✅ 62219 探索这些文档以便了解更多内容：</description>
+    </item>
+    <item>
+      <title>5.5 P4 Group Input Terminal Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/input-terminal-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/input-terminal-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the inverter is in both stopped and running states.
+✳️: Indicates that the parameter setting value cannot be changed when the inverter is in a running state.
+❎: Indicates that the parameter value is the actual measured recording value and cannot be changed.
+P4 Group: Input Terminal Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P4-00 X1 Terminal Function Selection 0: No function1: Forward Run (FWD)2: Reverse Run (REV)3: Three-wire Run Control4: Forward Jog (FJOG)5: Reverse Jog (RJOG)6: UP Terminal7: DOWN Terminal8: Free Stop9: Fault Reset (RESET)10: Run Pause11: External Fault Normally Open Input12: Multi-segment Instruction Terminal 113: Multi-segment Instruction Terminal 214: Multi-segment Instruction Terminal 315: Multi-segment Instruction Terminal 416: Acceleration/Deceleration Time Selection Terminal 117: Acceleration/Deceleration Time Selection Terminal 218: Frequency Switching19: UP/DOWN Setting Clear (Terminal/Keyboard)20: Run Command Switching Terminal 121: Acceleration/Deceleration Prohibition22: PID Pause23: PLC State Reset24: Swing Pause25: Counter Input26: Counter Reset27: Length Counter Input28: Length Reset29: Torque Control Prohibition30: HDI Pulse Frequency Input (X5)31: Reserved32: Immediate DC Braking33: External Fault Normally Closed Input34: Frequency Modification Enable36: External Stop Terminal 137: Run Command Switching Terminal 238: PID Integral Pause39: Frequency Source X and Preset Frequency Switching40: Frequency Source Y and Preset Frequency Switching43: PID Parameter Switching44: User-defined Fault 145: User-defined Fault 246: Speed Control/Torque Control Switching47: Emergency Stop48: External Stop Terminal 249: Deceleration DC Braking50: Clear This Operation Time51: Two-wire and Three-wire Switching52: Reverse Prohibition53: Single Terminal UP/DOWN Enable, Frequency Source Switching (Same as Function 18)54: Terminal Activate UP, Deactivate DOWN 01 ✳️ 62464 P4-01 X2 Terminal Function Selection Same as P4-00 02 ✳️ 62465 P4-02 X3 Terminal Function Selection Same as P4-00 04 ✳️ 62466 P4-03 X4 Terminal Function Selection Same as P4-00 09 ✳️ 62467 P4-04 X5 Terminal Function Selection Same as P4-00 12 ✳️ 62468 P4-05 X6 Terminal Function Selection Same as P4-00 00 ✳️ 62469 P4-06 X7 Terminal Function Selection Same as P4-00 00 ✳️ 62470 P4-10 X Terminal Filter Time 0.</description>
+    </item>
+    <item>
+      <title>5.5 P4组：输入端子参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/input-terminal-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/input-terminal-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P4组：输入端子参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P4-00 X1端子功能选择 0：无功能1：正转运行（FWD）2：反转运行（REV）3：三线式运行控制4：正转点动（FJOG）5：反转点动（RJOG）6：端子UP7：端子DOWN8：自由停车9：故障复位（RESET）10：运行暂停11：外部故障常开输入12：多段指令端子113：多段指令端子214：多段指令端子315：多段指令端子416：加减速时间选择端子117：加减速时间选择端子218：频率切换19：UP/DOWN设定清零（端子/键盘）20：运行命令切换端子121：加减速禁止22：PID暂停23：PLC状态复位24：摆频暂停25：计数器输入26：计数器复位27：长度计数输入28：长度复位29：转矩控制禁止30：HDI脉冲频率输入（X5）31：保留32：立即直流制动33：外部故障常闭输入34：频率修改使能36：外部停车端子137：运行命令切换端子238：PID积分暂停39：频率源X与预置频率切换40：频率源Y与预置频率切换43:PID参数切换44：用户自定义故障145：用户自定义故障246：速度控制/转矩控制切换47：紧急停车48：外部停车端子249：减速直流制动50：本次运行时间清零51：两线式和三线式切换52：禁止反转53：单端子UP/DOWN使能，频率源切换（同功能18）54：端子激活UP，不激活为DOWN 01 ✳️ 62464 P4-01 X2端子功能选择 同P4-00 02 ✳️ 62465 P4-02 X3端子功能选择 同P4-00 04 ✳️ 62466 P4-03 X4端子功能选择 同P4-00 09 ✳️ 62467 P4-04 X5端子功能选择 同P4-00 12 ✳️ 62468 P4-05 X6端子功能选择 同P4-00 00 ✳️ 62469 P4-06 X7端子功能选择 同P4-00 00 ✳️ 62470 P4-10 X端子滤波时间 0.000s~1.000s 0.010s ✅ 62474 P4-11 端子命令方式 0：两线式11：两线式22：三线式13：三线式2 0 ✳️ 62475 P4-12 端子UP/DOWN变化率 0.001Hz/s~65.535Hz/s 1.</description>
+    </item>
+    <item>
+      <title>5.6 P5 Group Output Terminal Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/output-terminal-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/output-terminal-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stopped and running states. ✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state. ❎: Indicates that the value of this parameter is the actual measured value, which cannot be changed. P5 Group: Output Terminal Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P5-00 HDO Terminal Output Mode Selection 0: High-speed pulse output (HDO) 1: Terminal switch output (FMR) 0 ✅ 62720 P5-01 HDO Terminal Switch Output Function Selection (FMR) 0: No output 1: Inverter running 2: Fault output (fault stop) 3: Frequency level detection FDT1 output 4: Frequency reached 5: Zero speed operation (no output when stopped) 6: Motor overload pre-alarm 7: Inverter overload pre-alarm 8: Set count value reached 9: Specified count value reached 11: PLC cycle completed 12: Cumulative running time reached 13: Frequency limit 14: Torque limit 15: Ready for operation 16: AI1 &amp;gt; AI2 17: Upper limit frequency reached 18: Lower limit frequency reached (related to operation) 19: Undervoltage status output 20: Communication setting 23: Zero speed operation 2 (output even when stopped) 24: Cumulative power-on time reached 25: Frequency level detection FDT2 output 26: Frequency 1 reached output 27: Frequency 2 reached output 28: Current 1 reached output 29: Current 2 reached output 30: Time-out reached output 31: AI1 input out of range 32: No-load 33: Reverse operation 34: Zero current state 35: Module temperature reached 36: Output current exceeded 37: Lower limit frequency reached (output even when stopped) 38: Alarm output (continue running) 40: This run time reached 41: Fault output (fault for free stop and undervoltage not output) 42: Frequency 1 ≤ operating frequency ≤ frequency 2 43: Frequency 1 ≥ operating frequency ≥ frequency 2 44: Frequency 1 ≤ set frequency ≤ frequency 2 45: Frequency 1 ≥ set frequency ≥ frequency 2 46: Linkage X1 terminal output 47: Linkage X2 terminal output 48: Linkage X3 terminal output 49: Linkage X4 terminal output 50: Auxiliary motor pump 1 51: Auxiliary motor pump 2 52: Auxiliary motor pump 3 53: Auxiliary motor pump 4 0 ✅ 62721 P5-02 Relay RY1 Function Selection (K1A-K1B-K1C) Same as P5-01 2 ✅ 62722 P5-03 Relay RY2 Function Selection (K2A-K2B-K2C) Same as P5-01 0 ✅ 62723 P5-04 Y1 Output Function Selection Same as P5-01 1 ✅ 62724 P5-06 HDO High-speed Pulse Output Function Selection 0: Running frequency 1: Set frequency 2: Output current 3: Output torque 4: Output power 5: Output voltage 6: HDI pulse input (100.</description>
+    </item>
+    <item>
+      <title>5.6 P5组：输出端子参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/output-terminal-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/output-terminal-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P5组：输出端子参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P5-00 HDO端子输出模式选择 0：高速脉冲输出（HDO）1：端子开关量输出（FMR） 0 ✅ 62720 P5-01 HDO端子开关量输出功能选择（FMR） 0：无输出1：变频器运行中2：故障输出（故障停机）3：频率水平检测FDT1输出4：频率到达 5：零速运行中（停机时不输出）6：电机过载预报警7：变频器过载预报警8：设定记数值到达9：指定记数值到达11：PLC循环完成12：累计运行时间到达13：频率限定中14：转矩限定中15：运行准备就绪16：AI1&amp;gt;AI217：上限频率到达18：下限频率到达（运行有关）19：欠压状态输出20：通讯设定23：零速运行中2（停机时也输出）24：累计上电时间到达25：频率水平检测FDT2输出26：频率1到达输出27：频率2到达输出28：电流1到达输出29：电流2到达输出30：定时到达输出31：AI1输入超限32：掉载中33：反向运行中34：零电流状态35：模块温度到达36：输出电流超限37：下限频率到达（停机也输出） 38：告警输出（继续运行）40：本次运行时间到达41：故障输出（为自由停机的故障且欠压不输出）42：频率1≤运行频率≤频率243：频率1≥运行频率≥频率244：频率1≤设定频率≤频率245：频率1≥设定频率≥频率246：联动X1端子输出47：联动X2端子输出48：联动X3端子输出49：联动X4端子输出50：辅助电机水泵151：辅助电机水泵252：辅助电机水泵353：辅助电机水泵4 0 ✅ 62721 P5-02 继电器RY1功能选择(K1A-K1B-K1C) 同P5-01 2 ✅ 62722 P5-03 继电器RY2功能选择(K2A-K2B-K2C) 同P5-01 0 ✅ 62723 P5-04 Y1输出功能选择 同P5-01 1 ✅ 62724 P5-06 HDO高速脉冲输出功能选择 0：运行频率1：设定频率2：输出电流3：输出转矩4：输出功率5：输出电压6：HDI脉冲输入（100.0%对应100.0KHz）7：AI18：AI29：AI311：记数值12：通讯设定13：电机转速14：输出电流（100.0%对应1000.0A）15：输出电压（100.0%对应1000.0V）16：保留17：变频器输出转矩 0 ✅ 62726 P5-07 AO1输出功能选择 同P5-06 0 ✅ 62727 P5-08 AO2输出功能选择 同P5-06 0 ✅ 62728 P5-09 HDO输出最大频率 0.01kHz~50.00kHz 50.00kHz ✅ 62729 P5-10 AO1零偏系数 -100.</description>
+    </item>
+    <item>
+      <title>第五章 功能参数表</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/_index.zh-cn/</guid>
+      <description>&lt;p&gt;探索以下文档以便了解更多内容：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5.7 P6 Group Start-Stop Control Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/start-stop-control-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/start-stop-control-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the setting value of this parameter can be changed when the inverter is in stop or run state. ✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in run state. ❎: Indicates that the value of this parameter is the actual measured value and cannot be changed. P6 Group: Start-Stop Control Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P6-00 Start Mode 0: Direct Start1: Speed Tracking Restart2: Pre-excitation Start (AC asynchronous machine) 0 ✅ 62976 P6-01 Speed Tracking Mode 0: Start from Stop Frequency1: Start from Zero Speed2: Start from Max Frequency 0 ✳️ 62977 P6-02 Speed Tracking Acceleration/Deceleration 1~100 20 ✅ 62978 P6-03 Start Frequency 0~P0-08 0.</description>
+    </item>
+    <item>
+      <title>5.7 P6组：启停控制参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/start-stop-control-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/start-stop-control-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P6组：启停控制参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P6-00 启动方式 0：直接启动1：速度跟踪再启动2：预励磁启动（交流异步机） 0 ✅ 62976 P6-01 转速追踪方式 0：从停机频率开始1：从零速开始2：从最大频率开始 0 ✳️ 62977 P6-02 转速跟踪快慢 1~100 20 ✅ 62978 P6-03 启动频率 0~P0-08 0.00Hz ✅ 62979 P6-04 启动频率保持时间 0.0s~100.0s 0.0s ✳️ 62980 P6-05 启动直流制动电流/预励磁电流 0%~100% 0% ✳️ 62981 P6-06 启动直流制动时间/预励磁时间 0.0s~100.0s 0.0s ✳️ 62982 P6-07 加减速方式 0：直线加减速1：S曲线加减速A2：S曲线加减速B 0 ✳️ 62983 P6-08 S曲线开始段时间比例 0.0%~(100.0%-P6-09) 30.0% ✳️ 62984 P6-09 S曲线结束段时间比例 0.0%~(100.0%-P6-08) 30.</description>
+    </item>
+    <item>
+      <title>5.8 P7 Group Keyboard and Display</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/keyboard-and-display/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/keyboard-and-display/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Description ✅: Indicates that the setting value of this parameter can be changed when the inverter is in stop or run state. ✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in run state. ❎: Indicates that the value of this parameter is the actual measured value and cannot be changed. P7 Group: Keyboard and Display Function Code Name Setting Range Factory Value Attribute DEC Address P7-01 MF.</description>
+    </item>
+    <item>
+      <title>5.8 P7组：键盘与显示</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/keyboard-and-display.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/keyboard-and-display.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P7组：键盘与显示 功能代码 名称 设定范围 出厂值 属性 DEC地址 P7-01 MF.K键功能选择 0：MF.K无效1：操作面板命令通道与远程命令通道（端子命令通道或通讯命令通道）切换2：正反转切换3：正转点动4：反转点动 2 ✅ 63233 P7-02 STOP/RESET键功能 0：只在键盘操作方式下，STOP/RESET键停机功能有效1：在任何情况下，STOP/RESET键停机功能均有效 1 ✅ 63234 P7-03 LED运行显示参数1 0000~FFFFBit00：运行频率1（Hz）Bit01：设定频率（Hz） Bit02：母线电压（V）Bit03：输出电压（V）Bit04：输出电流（A）Bit05：输出功率（KW）Bit06：输出转矩（%）Bit07：X输入状态Bit08：Y输出状态Bit09：AI1电压（V）Bit10：AI2电压（V）Bit11：AI3面板电位器电压（V）Bit12：计数值Bit13：保留Bit14：负载速度显示Bit15：PID设定（供水宏显示压力值） 001F ✅ 63235 P7-04 LED运行显示参数2 0000~FFFFBit00：PID反馈（供水宏显示压力值）Bit01：PLC阶段 Bit02：HDI输入脉冲频率（kHz）Bit03：运行频率2（Hz）Bit04：剩余运行时间Bit05：AI1校正前电压（V）Bit06：AI2校正前电压（V）Bit07：AI3面板电位器校正前电压（V）Bit08：线速度Bit09：当前上电时间（Hour）Bit10：当前运行时间（Min）Bit11：HDI输入脉冲频率（Hz）Bit12：通讯设定值Bit13：编码器反馈速度（Hz）Bit14：主频率X显示（Hz）Bit15：辅助频率Y显示（Hz） ✅ 63236 P7-05 LED停机显示参数 0000~FFFFBit00：设定频率（Hz）Bit01：母线电压（V） Bit02：X输入状态Bit03：Y输出状态Bit04：AI1电压（V）Bit05：AI2电压（V）Bit06：AI3面板电位器电压（V）Bit07：计数值Bit08：长度值Bit09：PLC阶段Bit10：负载速度Bit11：PID设定（压力）Bit12：HDI输入脉冲频率（Hz）Bit13：PID反馈（压力）（Hz） 0033 ✅ 63237 P7-06 负载速度显示系数 0.0001~6.5000 1.000 ✅ 63238 P7-07 逆变器模块散热器温度 0.0℃~100.0℃ - ❎ 63239 P7-09 累计运行时间 0h~65535h - ✅ 63241 P7-12 负载速度显示小数点位数 0：0位小数位1：1位小数位2：2位小数位3：3位小数位 1 ✅ 63244 P7-13 累计上电时间 0~65535h - ❎ 63245 P7-14 累计耗电量 0~65535度 - ❎ 63246 P7-17 数码管2停机监视选择 0000~FFFF 0000 ✅ 63249 P7-18 数码管2运行监视选择 0000~FFFF 0000 ✅ 63250 探索这些文档以便了解更多内容：</description>
+    </item>
+    <item>
+      <title>5.9 P8 Group Auxiliary Function Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/accessibility-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/accessibility-features/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the variable frequency drive is in both stopped and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the variable frequency drive is in a running state;
+❎: Indicates that the value of this parameter is an actual detected record value and cannot be changed.</description>
+    </item>
+    <item>
+      <title>5.9 P8组：辅助功能参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/accessibility-features.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/accessibility-features.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P8组：辅助功能参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P8-00 点动运行频率 0.00Hz~最大频率 6.00Hz ✅ 63488 P8-01 点动加速时间 0.0s~6500.0s 20.0s ✅ 63489 P8-02 点动减速时间 0.0s~6500.0s 20.0s ✅ 63490 P8-03 加速时间2 0.0s~6500.0s 机型确定 ✅ 63491 P8-04 减速时间2 0.0s~6500.0s 机型确定 ✅ 63492 P8-05 加速时间3 0.0s~6500.0s 机型确定 ✅ 63493 P8-06 减速时间3 0.0s~6500.0s 机型确定 ✅ 63494 P8-07 加速时间4 0.0s~6500.0s 机型确定 ✅ 63495 P8-08 减速时间4 0.0s~6500.0s 机型确定 ✅ 63496 P8-09 跳跃频率1 0.00Hz~最大频率 0.</description>
+    </item>
+    <item>
+      <title>5.10 P9 Group Fault and Protection Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/malfunction-and-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/malfunction-and-protection/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stopped and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state;
+❎: Indicates that the value of this parameter is the actual measured value and cannot be changed.
+P9 Group: Fault and Protection Parameters Function Code Name Setting Range Factory Value Attribute DEC Address P9-00 Motor Overload Protection Selection 0: Disabled1: Enabled 1 ✅ 63744 P9-01 Motor Overload Protection Gain 0.</description>
+    </item>
+    <item>
+      <title>5.10 P9组：故障与保护参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/malfunction-and-protection.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/malfunction-and-protection.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+P9组：故障与保护参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 P9-00 电机过载保护选择 0：禁止1：允许 1 ✅ 63744 P9-01 电机过载保护增益 0.20~10.00 1.00 ✅ 63745 P9-02 电机过载预警系数 50%~100% 80% ✅ 63746 P9-03 过压失速增益 0~100 0 ✅ 63747 P9-04 过压失速动作电压 200.0~2000.0V220V:380V380V:760V 机型确定 ✅ 63748 P9-05 过流失速增益 0~100 20 ✅ 63749 P9-06 过流失速保护电流 100%~200% 150% ✅ 63750 P9-07 上电对地短路保护选择 0：无效1：有效 1 ✅ 63751 P9-08 能耗制动动作电压 200.0~2000.0V 220V:360V380V:700V ✅ 63752 P9-09 故障自动复位次数 0~20 0 ✅ 63753 P9-10 故障自动复位期间故障DO动作选择 0：不动作1：动作 0 ✅ 63754 P9-11 故障自动复位间隔时间 0.</description>
+    </item>
+    <item>
+      <title>5.11 PA Group PID Function Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/pid-function-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/pid-function-parameters/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stop and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state;
+❎: Indicates that the value of this parameter is an actual detection record value and cannot be changed.
+PA Group: PID Function Parameters Function Code Name Setting Range Factory Value Attribute DEC Address PA-00 PID Setpoint Source 0: Set by PA-011: AI12: AI23: External Keyboard Potentiometer for AI34: HDI Input Pulse Setting (X5)5: Communication Setpoint6: Multi-segment Instruction Setpoint7: Pressure Setpoint from Supply Group b0-01 0 ✅ 64000 PA-01 PID Value Setting 0.</description>
+    </item>
+    <item>
+      <title>5.11 PA组：PID功能参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/pid-function-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/pid-function-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+PA组：PID功能参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 PA-00 PID给定源 0：PA-01设定1：AI1 2：AI23：AI3外引键盘电位器4：HDI输入脉冲设定（X5）5：通讯给定6：多段指令给定7：由供水组b0-01压力给定 0 ✅ 64000 PA-01 PID数值给定 0.0~100.0% 50.0% ✅ 64001 PA-02 PID反馈源 0：AI11：AI2 2：AI3外引键盘电位器3：AI1-AI24：HDI输入脉冲设定（X5）5：通讯给定6：AI1+AI27：MAX(AI1,AI2)8：MIN(AI1,AI2) 0 ✅ 64002 PA-03 PID作用方向 0：正作用1：反作用 0 ✅ 64003 PA-04 PID给定反馈量程 0~65535 1000 ✅ 64004 PA-05 比例增益KP1 0.0~100.0 20.0 ✅ 64005 PA-06 积分时间Ti1 0.01~10.00s 2.00s ✅ 64006 PA-07 微分时间Td1 0.000~10.000s 0.000s ✅ 64007 PA-08 PID反转截止频率 0.00~最大频率 2.00Hz ✅ 64008 PA-09 PID偏差极限 0.</description>
+    </item>
+    <item>
+      <title>5.12 Pb Group Swing Frequency, Fixed Length, and Counting</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/pulse-frequency-and-counting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/pulse-frequency-and-counting/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stop and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state;
+❎: Indicates that the value of this parameter is an actual detection record value and cannot be changed.
+Pb Group: Swing Frequency, Fixed Length, and Counting Function Code Name Setting Range Factory Value Attribute DEC Address Pb-00 Swing Frequency Setting Method 0: Relative to Center Frequency1: Relative to Maximum Frequency 0 ✅ 64256 Pb-01 Swing Amplitude 0.</description>
+    </item>
+    <item>
+      <title>5.12 Pb组：摆频、定长和计数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/pulse-frequency-and-counting.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/pulse-frequency-and-counting.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+Pb组：摆频、定长和计数 功能代码 名称 设定范围 出厂值 属性 DEC地址 Pb-00 摆频设定方式 0：相对于中心频率1：相对于最大频率 0 ✅ 64256 Pb-01 摆频幅度 0.0~100.0% 0.0% ✅ 64257 Pb-02 突跳频率幅度 0.0~50.0% 0.0% ✅ 64258 Pb-03 摆频周期 0.1~3000.0s 10.0s ✅ 64259 Pb-04 摆频的三角波上升时间 0.1~100.0% 50.0% ✅ 64260 Pb-05 设定长度 0~65535m 1000m ✅ 64261 Pb-06 实际长度 0~65535m 0m ✅ 64262 Pb-07 每米脉冲数 0.1~6553.5 100.0 ✅ 64263 Pb-08 设定计数值 1~65535 1000 ✅ 64264 Pb-09 指定计数值 1~65535 1000 ✅ 64265 探索这些文档以便了解更多内容：</description>
+    </item>
+    <item>
+      <title>5.13 Pc Group Multi-segment Speed Instructions and Simple PLC</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc/</guid>
+      <description>ℹ️ Inverter Parameter Attribute Explanation ✅: Indicates that the setting value of this parameter can be changed when the inverter is in both stop and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the inverter is in a running state;
+❎: Indicates that the value of this parameter is an actual detection record value and cannot be changed.
+Pc Group: Multi-segment Speed Instructions and Simple PLC Function Code Name Setting Range Factory Value Attribute DEC Address Pc-00 Multi-segment Instruction 0 -100.</description>
+    </item>
+    <item>
+      <title>5.13 Pc组：多段速指令和简易PLC</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/multi-segment-speed-instructions-and-simplified-plc.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+Pc组：多段速指令和简易PLC 功能代码 名称 设定范围 出厂值 属性 DEC地址 Pc-00 多段指令0 -100.0%~100.0% 0.0% ✅ 64512 Pc-01 多段指令1 -100.0%~100.0% 0.0% ✅ 64513 Pc-02 多段指令2 -100.0%~100.0% 0.0% ✅ 64514 Pc-03 多段指令3 -100.0%~100.0% 0.0% ✅ 64515 Pc-04 多段指令4 -100.0%~100.0% 0.0% ✅ 64516 Pc-05 多段指令5 -100.0%~100.0% 0.0% ✅ 64517 Pc-06 多段指令6 -100.0%~100.0% 0.0% ✅ 64518 Pc-07 多段指令7 -100.0%~100.0% 0.0% ✅ 64519 Pc-16 简易PLC运行方式 0：单次运行结束停机1：单次运行结束保持终值2：一直循环 0 ✅ 64528 Pc-17 简易PLC掉电记忆选择 个位：掉电记忆选择0：掉电不记忆1：掉电记忆十位：停机记忆选择0：停机不记忆1：停机记忆 00 ✅ 64529 Pc-18 简易PLC-0段运行时间 0.</description>
+    </item>
+    <item>
+      <title>5.14 Pd Group Communication Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/communication-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/communication-parameters/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the variable frequency drive is in both stop and run states.
+✅: Indicates that the parameter setting value cannot be changed when the variable frequency drive is in a running state.
+❎: Indicates that the value of the parameter is the actual detected recording value and cannot be changed.
+Pd Group: Communication Parameters Function Code Name Setting Range Factory Value Attribute DEC Address Pd-00 Baud Rate 0: 300BPS1: 600BPS2: 1200BPS3: 2400BPS4: 4800BPS5: 9600BPS6: 19200BPS7: 38400BPS8: 57600BPS 5 ✅ 64768 Pd-01 Data Control Format 0: No parity (8-N-2)1: Even parity (8-E-1)2: Odd parity (8-O-1)3: No parity (8-N-1) 3 ✅ 64769 Pd-02 Local Address 1~247 1 ✅ 64770 Pd-03 Response Delay 0~20ms 2 ✅ 64771 Pd-04 Communication Timeout 0.</description>
+    </item>
+    <item>
+      <title>5.14 Pd组：通讯参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/communication-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/communication-parameters.zh-cn/</guid>
+      <description> ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✅：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+Pd组：通讯参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 Pd-00 波特率 0：300BPS1：600BPS2：1200BPS3：2400BPS4：4800BPS5：9600BPS6：19200BPS7：38400BPS8：57600BPS 5 ✅ 64768 Pd-01 数控格式 0：无校验（8-N-2）1：偶校验（8-E-1）2：奇校验（8-O-1）3：无校验（8-N-1） 3 ✅ 64769 Pd-02 本机地址 1~247 1 ✅ 64770 Pd-03 应答延迟 0~20ms 2 ✅ 64771 Pd-04 通讯超时时间 0.0（无效）0.1s~60.0s 0.0 ✅ 64772 Pd-05 数据传送格式选择 1：标准的MODBUS协议 1 ✅ 64773 Pd-06 通讯读取电流分辨率 0：0.01A1：0.1A 0 ✅ 64774 Pd-07 保留 - 0 ✅ 64775 探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>5.15 PP Group Function Code Management</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/function-code-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/function-code-management/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the variable frequency drive is in both stop and run states.
+✅: Indicates that the parameter setting value cannot be changed when the variable frequency drive is in a running state.
+❎: Indicates that the value of the parameter is the actual detected recording value and cannot be changed.
+PP Group: Function Code Management Function Code Name Setting Range Factory Value Attribute DEC Address PP-00 User Password 0~65535 00000 ✅ 7936 PP-01 Parameter Initialization 0: No Operation01: Restore Factory Parameters, Excluding Motor Parameters02: Clear Record Information03: Restore Factory Parameters, Including Motor Parameters04: Reserved 000 ✳️ 7937 PP-02 Function Parameter Group Display Selection Units: U Group Display SelectionTens: A Group Display SelectionHundreds: B Group Display Selection0: Not Displayed1: Displayed 101 ✳️ 7938 PP-04 Function Code Modification Attribute 0: Modifiable1: Not Modifiable 0 ✅ 7940 Explore these documents to learn more.</description>
+    </item>
+    <item>
+      <title>5.15 PP组：功能码管理</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/function-code-management.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/function-code-management.zh-cn/</guid>
+      <description> ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+PP组：功能码管理 功能代码 名称 设定范围 出厂值 属性 DEC地址 PP-00 用户密码 0~65535 00000 ✅ 7936 PP-01 参数初始化 0：无操作01：恢复出厂参数，不包括电机参数02：清除记录信息03：恢复出厂参数，包括电机参数04：保留 000 ✳️ 7937 PP-02 功能参数组显示选择 个位：U组显示选择十位：A组显示选择百位：B组显示选择0：不显示1：显示 101 ✳️ 7938 PP-04 功能码修改属性 0：可修改1：不可修改 0 ✅ 7940 探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>5.16 A5 Group Control Optimization Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/control-optimization-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/control-optimization-parameters/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the variable frequency drive is in both stop and run states.
+✅: Indicates that the parameter setting value cannot be changed when the variable frequency drive is in a running state.
+❎: Indicates that the value of the parameter is the actual detected recording value and cannot be changed.
+A5 Group: Control Optimization Parameters Function Code Name Setting Range Factory Value Attribute DEC Address A5-00 DPWM Switching Upper Limit Selection 0.</description>
+    </item>
+    <item>
+      <title>5.16 A5组：控制优化参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/control-optimization-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/control-optimization-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+A5组：控制优化参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 A5-00 DPWM切换上限选择 0.00Hz~15.00Hz 12.00Hz ✅ 42240 A5-01 PWM调制方式 0：异步调制1：同步调制 0 ✅ 42241 A5-02 死区补偿模式选择 0：不补偿1：补偿模式12：补偿模式2 1 ✅ 42242 A5-03 随机PWM深度 0：随机PWM无效1~10：PWM载频随机深度 0 ✅ 42243 A5-04 快速限流使能 0：不使能1：使能 1 ✅ 42244 A5-05 电流检测补偿 0~100 5 ✅ 42245 A5-06 欠压点设置 100.0~2000.0V 机型确定 ✅ 42246 A5-07 SVC优化模式选择 0：不优化1：优化模式12：优化模式2 1 ✅ 42247 A5-08 死区时间调整 100~200% 150% ✅ 42248 A5-09 过压点设定 200.0~2500.0V 机型确定 ✳️ 42249 探索这些文档以便了解更多内容：</description>
+    </item>
+    <item>
+      <title>5.17 b0 Group Intelligent Constant Pressure Water Supply Parameters</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Property Description ✅: Indicates that the setting value of this parameter can be changed when the VFD is in both stopped and running states;
+✳️: Indicates that the setting value of this parameter cannot be changed when the VFD is in a running state;
+❎: Indicates that the value of this parameter is an actual detection record value and cannot be changed;
+b0 Group: Intelligent Variable Frequency Constant Pressure Water Supply Parameters Function Code Name Setting Range Factory Value Property DEC Address b0-00 Pressure Sensor Range 0~99.</description>
+    </item>
+    <item>
+      <title>5.17 b0组：智能恒压供水参数</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/intelligent-constant-pressure-water-supply-parameters.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+b0组：智能变频恒压供水参数 功能代码 名称 设定范围 出厂值 属性 DEC地址 b0-00 压力传感器量程 0~99.99Bar(kg) 10.00 ✅ 45056 b0-01 目标压力数字给定注：目标压力由PA-01选定 0~99.99Bar(kg) 5.00 ✅ 45057 b0-02 休眠压力 0~100.0%(以目标压力比例联动) 100.0% ✅ 45058 b0-03 唤醒压力 0~100.0%(以目标压力比例联动) 95.0% ✅ 45059 b0-04 压力稳定偏差量 0~100.0%(以目标压力比例联动) 2.0% ✅ 45060 b0-05 休眠延时 0~6553.5s（0：关闭休眠） 20.0s ✅ 45061 b0-06 唤醒延时 0~6553.5s 0.0s ✅ 45062 b0-07 压力上限保护值 0~100.0%(以目标压力比例联动) 10.0% ✅ 45063 b0-08 压力上限保护停机延时 0~6553.5s（0：关闭检测） 0.3s ✅ 45064 b0-09 下限频率超目标压力保护延时 0~6553.5s（0：关闭检测） 3.</description>
+    </item>
+    <item>
+      <title>5.18 U0 Group Parameter Monitoring</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/parameter-monitoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/parameter-monitoring/</guid>
+      <description>ℹ️ Variable Frequency Drive Parameter Attribute Description ✅: Indicates that the parameter setting value can be changed when the variable frequency drive is in both stop and run states.
+✅: Indicates that the parameter setting value cannot be changed when the variable frequency drive is in a running state.
+❎: Indicates that the value of the parameter is the actual detected recording value and cannot be changed.
+U0 Group: Parameter Monitoring Function Code Name Setting Range Factory Value Attribute DEC Address U0-00 Operating Frequency (Hz) &amp;ndash; 0.</description>
+    </item>
+    <item>
+      <title>5.18 U0组：参数监视</title>
+      <link>http://localhost:1313/docs/functional-parameter-table/parameter-monitoring.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/functional-parameter-table/parameter-monitoring.zh-cn/</guid>
+      <description>ℹ️ 变频器参数属性说明 ✅：表示该参数的设定值在变频器处于停机、运行状态中，均可更改；
+✳️：表示该参数的设定值在变频器处于运行状态时，不可更改；
+❎：表示该参数的数值是实际检测记录值，不能更改；
+U0组：参数监视 功能代码 名称 设定范围 出厂值 属性 DEC地址 U0-00 运行频率（Hz） &amp;ndash; 0.01Hz ❎ 28672 U0-01 设定频率(Hz) &amp;ndash; 0.01Hz ❎ 28673 U0-02 母线电压(V) &amp;ndash; 0.1V ❎ 28674 U0-03 输出电压（V） &amp;ndash; 1V ❎ 28675 U0-04 输出电流（A） &amp;ndash; 0.01A ❎ 28676 U0-05 输出功率（Kw） &amp;ndash; 0.1Kw ❎ 28677 U0-06 输出转矩（%） &amp;ndash; 0.1% ❎ 28678 U0-07 X输入状态 &amp;ndash; 1 ❎ 28679 U0-08 Y输出状态 &amp;ndash; 1 ❎ 28680 U0-09 AI1电压(V) &amp;ndash; 0.</description>
+    </item>
+  </channel>
+</rss>

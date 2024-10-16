@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://blog.senkuogroup.com/sitemap.xml
+Sitemap: https://en.lyskjd.com/sitemap.xml

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chapter 3 Mounting on Linyi Senkuo Electromechanical Co. Ltd</title>
+    <link>http://localhost:1313/docs/mounting/</link>
+    <description>Recent content in Chapter 3 Mounting on Linyi Senkuo Electromechanical Co. Ltd</description>
+    <image>
+      <title>Linyi Senkuo Electromechanical Co. Ltd</title>
+      <url>http://localhost:1313/img/mstile-150x150.png</url>
+      <link>http://localhost:1313/img/mstile-150x150.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/docs/mounting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3.1 Whole Machine Structure Dimension Diagram</title>
+      <link>http://localhost:1313/docs/mounting/overall-equipment-dimensional-diagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/overall-equipment-dimensional-diagram/</guid>
+      <description>Model Height (mm) Width (mm) Depth (mm) Height 1 (mm) Width 1 (mm) Hole Diameter (mm) R75GB-S2 197.2 89.6 139 187 74 5 1R5GB-S2 197.2 89.6 139 187 74 5 2R2GB-S2 197.2 89.6 139 187 74 5 R75GB-T4 197.2 89.6 139 187 74 5 1R5GB-T4 197.2 89.6 139 187 74 5 2R2GB-T4 197.2 89.6 139 187 74 5 004GB/5R5PB-T4 202 102 162 190.5 90 5 5R5GB/7R5PB-T4 202 102 162 190.</description>
+    </item>
+    <item>
+      <title>3.1 整机结构尺寸图</title>
+      <link>http://localhost:1313/docs/mounting/overall-equipment-dimensional-diagram.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/overall-equipment-dimensional-diagram.zh-cn/</guid>
+      <description>型号 H(mm) W(mm) D(mm) H1(mm) W1(mm) 开孔 d(mm) R75GB-S2 197.2 89.6 139 187 74 5 1R5GB-S2 197.2 89.6 139 187 74 5 2R2GB-S2 197.2 89.6 139 187 74 5 R75GB-T4 197.2 89.6 139 187 74 5 1R5GB-T4 197.2 89.6 139 187 74 5 2R2GB-T4 197.2 89.6 139 187 74 5 004GB/5R5PB-T4 202 102 162 190.5 90 5 5R5GB/7R5PB-T4 202 102 162 190.5 90 5 7R5GB-T4 242.5 125 170 228 108.</description>
+    </item>
+    <item>
+      <title>3.2 Main Circuit Terminals and Their Functions</title>
+      <link>http://localhost:1313/docs/mounting/main-circuit-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/main-circuit-terminals-and-functions/</guid>
+      <description>Terminal Label Name Description R, S, T Three-phase Power Supply Input Terminals Three-phase AC power supply input connection terminals (+), (-) DC Bus Positive and Negative Terminals Common DC bus input terminals (connection terminals for external braking units of 30KW and above) (+), PB Braking Resistor Connection Terminals Connection terminals for braking resistors of 22KW and above P, (+) External Reactor Connection Terminals Connection terminals for external DC reactors ⏚ Ground Terminal Connection to earth ground NEXT Explore these documents to learn more.</description>
+    </item>
+    <item>
+      <title>3.2 主回路端子及功能</title>
+      <link>http://localhost:1313/docs/mounting/main-circuit-terminals-and-functions.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/main-circuit-terminals-and-functions.zh-cn/</guid>
+      <description>端子标记 名称 说明 R、S、T 三相电源输入端子 三相交流电源输入连接端子 (+)、(-) 直流母线正、负端子 共直流母线输入端子（30KW及以上外置制动单元的连接端子） (+)、PB 制动电阻连接端子 22KW及以上制动电阻连接端子 P、(+) 外置电抗器连接端子 外置直流电抗器连接端子 ⏚ 接地端子 连接大地 探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>3.3 Control Circuit Terminal and Function</title>
+      <link>http://localhost:1313/docs/mounting/control-circuit-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/control-circuit-terminals-and-functions/</guid>
+      <description>The illustration below shows the terminal diagram for the control circuit of the SKF8000 series general-purpose inverter.
+Explore these documents to learn more.
+Purchase high-performance vector frequency drives now. Table of Contents for the Variable Frequency Drive User Manual Frequently Asked Questions (FAQs) about Variable Frequency Drives </description>
+    </item>
+    <item>
+      <title>3.3 控制回路端子及功能</title>
+      <link>http://localhost:1313/docs/mounting/control-circuit-terminals-and-functions.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/control-circuit-terminals-and-functions.zh-cn/</guid>
+      <description>探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>3.4 Control terminal and function</title>
+      <link>http://localhost:1313/docs/mounting/control-terminals-and-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/control-terminals-and-functions/</guid>
+      <description>Category Terminal Symbol Terminal Name Function Description Power +10V-GND +10V Power Provides +10V power externally, maximum output current: 20mA, typically used as the operating power supply for external potentiometers Power +24V-COM +24V Power Provides +24V power externally, maximum output current: 150mA, generally used as the power supply for digital input-output terminals and external sensor power Power OP External Power Input Terminal Connects to +24V or COM through the connection piece on the control board (factory default connection to +24V) When driving DI1~DI6 with external signals, OP needs to be connected to an external power source, and the short-circuit connection piece between OP and 24V should be removed Analog Input AI1-GND Analog Input Terminal 1 1.</description>
+    </item>
+    <item>
+      <title>3.4 控制端子及功能</title>
+      <link>http://localhost:1313/docs/mounting/control-terminals-and-functions.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/control-terminals-and-functions.zh-cn/</guid>
+      <description>类别 端子符号 端子名称 功能说明 电源 +10V-GND +10V电源 向外提供+10V电源，最大输出电流：20mA，一般用作外接电位器工作电源 电源 +24V-COM +24V电源 向外提供+24V电源，最大输出电流：150mA，一般用作数字输入输出端子工作电源和外接传感器电源 电源 OP 外部电源输入端子 通过控制板上的连接片选择与+24V或COM连接（出厂默认与+24V连接） 当利用外部信号驱动DI1~DI6时，OP需要与外部电源连接，且去掉此处OP~24V端子之间的短路连接片 模拟输入 AI1-GND 模拟量输入端子1 1、输入范围：DC0V~10V/0mA，由通过参数P4-37选择电压或电流输入。2、输入阻抗：电压输入时22kΩ，电流输入时500Ω 模拟输入 AI2-GND 模拟量输入端子2 1、输入范围：DC0V~10V/0mA，由通过参数P4-37选择电压或电流输入。2、输入阻抗：电压输入时22kΩ，电流输入时500Ω 数字输入 X1	、X2、X3、X4、X5、X6、X7 数字输入1、2、3、4、5、6、7 1、光耦隔离2、输入阻抗：4kΩ电平输入时电压范围：9V~30V 模拟输出 AO1-GND 模拟输出1 AO1，AO2由控制板J3、J2跳线选择电压或电流输出输出电压范围：0V~10V输出电流范围：0mA~20mA出厂默认为电压输出 模拟输出 AO2-GND（18.5KW以下和Y1共用1个端子，通过跳线选择输出） 模拟输出2 AO1，AO2由控制板J3、J2跳线选择电压或电流输出输出电压范围：0V~10V输出电流范围：0mA~20mA出厂默认为电压输出 数字输出 HD0 高速脉冲输出集电极开路输出 1、光耦隔离，双极性开路集电极输出。2、输出电压范围：0V~24V输出电流范围：0mA~50mA（备注：18.5KW及以下Y1功能可通过跳线切换为模拟量输出） 数字输出 Y1 数字输出1 模拟电压输出2 1、光耦隔离，双极性开路集电极输出。2、输出电压范围：0V~24V输出电流范围：0mA~50mA（备注：18.5KW及以下Y1功能可通过跳线切换为模拟量输出） 继电器输出 K1A-K1BK2A-K2B 常闭端子 触点驱动能力：AC 250V，3A；DC 30V ，1A 继电器输出 K1A-K1CK2A-K2C 常开端子 触点驱动能力：AC 250V，3A；DC 30V ，1A RS485通讯 RS+ 485通讯端子正 RS485差分信号正端 RS485通讯 RS- 485通讯端子负 RS485差分信号负端 探索这些文档以便了解更多内容：</description>
+    </item>
+    <item>
+      <title>第三章 安装</title>
+      <link>http://localhost:1313/docs/mounting/_index.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/_index.zh-cn/</guid>
+      <description>&lt;p&gt;探索以下文档以便了解更多内容：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3.5 Mechanical Installation</title>
+      <link>http://localhost:1313/docs/mounting/mechanical-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/mechanical-installation/</guid>
+      <description>3.5.1 Installation Environment: Ambient Temperature: The ambient temperature greatly affects the lifespan of the frequency converter. The operating environment temperature of the frequency converter should not exceed the allowable temperature range (-10°C to 50°C).
+Install the frequency converter on the surface of a flame-retardant object with sufficient space around it for heat dissipation. The frequency converter generates a large amount of heat during operation. Use screws to mount it vertically on the mounting bracket.</description>
+    </item>
+    <item>
+      <title>3.5 机械安装</title>
+      <link>http://localhost:1313/docs/mounting/mechanical-installation.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/mechanical-installation.zh-cn/</guid>
+      <description>3.5.1安装环境： 1.环境温度：周围环境温度对变频器寿命有很大影响，不允许变频器的运行环境温度超过允许温度范围（-10℃～50℃）。
+2.将变频器装于阻燃物体的表面，周围要有足够空间散热。变频器工作时易产生大量热量。并用螺丝垂直安装在安装支座上。
+3.请安装在不易振动的地方。振动应不大于0.6G。特别注意远离冲床等设备。
+4.避免装于阳光直射、潮湿、有水珠的地方。
+5.避免装于空气中有腐蚀性、易燃性、易爆性气体的场所。
+6.避免装在有油污、多灰尘、多金属粉尘的场所。
+单体安装时：当变频器功率不大于22kW时可以不考虑A尺寸。当大于22kW时A应该大于 50mm。
+上下安装时：当变频器上下安装时请安装图示的隔热导流板。
+变频器功率 安装尺寸A 安装尺寸B ≤15kW 可以不作要求 ≥100mm 18.5kW—30kW ≥50mm ≥200mm ≥37kW ≥50mm ≥300mm 3.5.2 机械安装需要注意的问题 机械安装需要关注的是散热问题。所以请注意以下几点：
+1.请垂直安装变频器，便于热量向上散发。但不能倒置。若柜内有较多变频器时，最好是并排安装。在需要上下安装的场合，请参考安装示意图的示意，安装隔热导流板。
+2.安装空间遵照安装示意图所示，保证变频器的散热空间。但布置时请考虑柜内其它器件的散热情况。
+3.安装支架一定是阻燃材质。
+4.对于有金属粉尘应用场合，建议采用散热器柜外安装方式。此时全密封的柜内空间要尽可能大。
+探索这些文档以便了解更多内容：
+立即购买高性能矢量变频器 变频器使用说明书目录 变频器常见问题解答 </description>
+    </item>
+    <item>
+      <title>3.6 Peripheral Electrical Component Selection Guide for Variable Frequency Drives</title>
+      <link>http://localhost:1313/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</guid>
+      <description>Inverter Peripheral Electrical Component Selection Table Inverter Power Circuit Breaker (MCCB) A Recommended Contactor A Recommended Input Side Main Circuit Wire mm² Recommended Output Side Main Circuit Wire mm² Recommended Control Circuit Wire mm² 0.4KWT2 16 10 2.5 2.5 1.0 0.7KWT2 16 10 2.5 2.5 1.0 1.5KWT2 20 16 4.0 2.5 1.0 2.2KWT2 32 20 6.0 4.0 1.0 0.7KWT4 10 10 2.5 2.5 1.0 1.5KWT4 16 10 2.5 2.5 1.0 2.</description>
+    </item>
+    <item>
+      <title>3.6 变频器外围电气元件选型指南</title>
+      <link>http://localhost:1313/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives.zh-cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives.zh-cn/</guid>
+      <description>变频器外围电气元件选型表 变频器功率 空开(MCCB) A 推荐接触器 A 推荐输入侧主回路导线mm² 推荐输出侧主回路导线 mm² 推荐控制回路导线 mm² 0.4KWT2 16 10 2.5 2.5 1.0 0.7KWT2 16 10 2.5 2.5 1.0 1.5KWT2 20 16 4.0 2.5 1.0 2.2KWT2 32 20 6.0 4.0 1.0 0.7KWT4 10 10 2.5 2.5 1.0 1.5KWT4 16 10 2.5 2.5 1.0 2.2KWT4 16 10 2.5 2.5 1.0 3.7KWT4 25 16 4.0 4.0 1.0 5.5KWT4 32 25 4.0 4.0 1.0 7.5KWT4 40 32 4.0 4.0 1.</description>
+    </item>
+  </channel>
+</rss>
